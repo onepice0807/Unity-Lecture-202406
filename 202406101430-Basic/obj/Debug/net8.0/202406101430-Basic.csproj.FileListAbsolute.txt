@@ -1,0 +1,14 @@
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\bin\Debug\net8.0\202406101430-Basic.exe
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\bin\Debug\net8.0\202406101430-Basic.deps.json
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\bin\Debug\net8.0\202406101430-Basic.runtimeconfig.json
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\bin\Debug\net8.0\202406101430-Basic.dll
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\bin\Debug\net8.0\202406101430-Basic.pdb
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\202406101430-Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\202406101430-Basic.AssemblyInfoInputs.cache
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\202406101430-Basic.AssemblyInfo.cs
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\202406101430-Basic.csproj.CoreCompileInputs.cache
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\202406101430-Basic.dll
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\refint\202406101430-Basic.dll
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\202406101430-Basic.pdb
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\202406101430-Basic.genruntimeconfig.cache
+D:\ray\새 폴더 (4)\새 폴더 (2)\C#-Lecture-202406\202406101430-Basic\obj\Debug\net8.0\ref\202406101430-Basic.dll
